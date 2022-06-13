@@ -1,0 +1,66 @@
+c:\users\msi papa-dollars\documents\visual studio 2012\Projects\GestionsEmploiesDuTemps\GestionsEmploiesDuTemps\bin\Debug\GestionsEmploiesDuTemps.exe.config
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\bin\Debug\GestionsEmploiesDuTemps.exe.config
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\bin\Debug\GestionsEmploiesDuTemps.exe
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\bin\Debug\GestionsEmploiesDuTemps.pdb
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.csprojResolveAssemblyReference.cache
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Emplois.resources
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Enseignants.resources
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Form1.resources
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Properties.Resources.resources
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.csproj.GenerateResource.Cache
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.exe
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.pdb
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\bin\Debug\MySql.Data.dll
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\bin\Debug\MySql.Data.Entity.dll
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\bin\Debug\MySql.Web.dll
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.EmploisTemps.resources
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Cours.resources
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Jour.resources
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Matiere.resources
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Salle.resources
+C:\Users\MSI Papa-dollars\Documents\GitHub\EmploiesDeTemps\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Semaine.resources
+H:\GestionsEmploiesDuTemps\bin\Debug\GestionsEmploiesDuTemps.exe.config
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.exe
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.pdb
+H:\GestionsEmploiesDuTemps\bin\Debug\GestionsEmploiesDuTemps.exe
+H:\GestionsEmploiesDuTemps\bin\Debug\GestionsEmploiesDuTemps.pdb
+H:\GestionsEmploiesDuTemps\bin\Debug\MySql.Data.dll
+H:\GestionsEmploiesDuTemps\bin\Debug\MySql.Data.Entity.dll
+H:\GestionsEmploiesDuTemps\bin\Debug\MySql.Data.Entity.EF6.dll
+H:\GestionsEmploiesDuTemps\bin\Debug\MySql.Web.dll
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.csprojResolveAssemblyReference.cache
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Cours.resources
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Emplois.resources
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.EmploisTemps.resources
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Enseignants.resources
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Form1.resources
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Jour.resources
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Matiere.resources
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Properties.Resources.resources
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Salle.resources
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Semaine.resources
+H:\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.csproj.GenerateResource.Cache
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\bin\Debug\GestionsEmploiesDuTemps.exe.config
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\bin\Debug\GestionsEmploiesDuTemps.exe
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\bin\Debug\GestionsEmploiesDuTemps.pdb
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\bin\Debug\MySql.Data.dll
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\bin\Debug\MySql.Web.dll
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.csproj.AssemblyReference.cache
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Cours.resources
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Emplois.resources
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.EmploisTemps.resources
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Enseignants.resources
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Form1.resources
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Jour.resources
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Matiere.resources
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Properties.Resources.resources
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Salle.resources
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.Semaine.resources
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.csproj.GenerateResource.cache
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.csproj.CopyComplete
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.exe
+C:\Users\Emmanuel\Desktop\Mes codes\tdc#\bd\GestionsEmploiesDuTemps\obj\Debug\GestionsEmploiesDuTemps.pdb
